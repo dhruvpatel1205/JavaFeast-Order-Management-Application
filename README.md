@@ -1,1 +1,1 @@
-This an Bronco Centerpointe Dining Management Web and Desktop application build with the java and hibernate as an course project
+This an Dining order management application naming JavaFeast which was developed for Web and Desktop and were build in Java and Hibernate ORM as an course project
